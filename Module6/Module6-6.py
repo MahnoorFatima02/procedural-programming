@@ -2,7 +2,7 @@ import random
 import math
 
 
-# Question # 6
+# Question # 6: which pizza price is better
 def calculate_price_per_sq_meter(diameter, price):
     centimeter_to_meter = diameter * 0.01
     area = ((centimeter_to_meter / 2) ** 2) * math.pi

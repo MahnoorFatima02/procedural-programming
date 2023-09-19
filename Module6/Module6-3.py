@@ -1,4 +1,4 @@
-# Question # 3:
+# Question # 3: gallons to litres conversion
 
 def gallons_to_litres(gallon_value):
     litres_value = round(gallon_value * 3.78, 2)
